@@ -8,7 +8,7 @@ urlpatterns = [
     # # ex: /polls/
     # path('', views.index, name='index'),
     # owner for week2 assignment
-    path('owner', views.owner, name='owner'),
+    path('owner/', views.owner, name='owner'),
     # # ex: /polls/5/
     # path('<int:question_id>/', views.detail, name='detail'),
     # # ex: /polls/5/results/
