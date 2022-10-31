@@ -5,3 +5,4 @@ polls/__pycache__/
 polls/migrations/__pycache__/
 *.pyc
 mysite/local_settings.py
+mysite/github_settings.py
